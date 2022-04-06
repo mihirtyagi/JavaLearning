@@ -3,7 +3,7 @@ package Unit_01;
 public class P2_Task01_KeywordsInJava {
 	public static void main(String[] args) {
 		
-//		Syntax error on token "int", invalid VariableDeclaratorId
+//		Syntax error on token "int", invalid VariableDeclaratorI
 		double int = 10;
 		
 //		Syntax error on token "int", delete this token
